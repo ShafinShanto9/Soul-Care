@@ -1,0 +1,28 @@
+[
+    {
+        "id" : "1",
+        "img" : "https://i.ibb.co/MZHbtqj/doctor3.png",
+        "name" : "David Smith ",
+        "spaicalist" : "Medicine",
+        "degree" :"MBBS, M.D ",
+        "phone" : "(669) 2568 2596"
+        
+    },
+    {
+        "id" : "2",
+        "img" : "https://i.ibb.co/y0gMJyF/doctor1.png",
+        "name" : "Vivi Morean ",
+        "spaicalist" : "Neurologist",
+        "degree" :"MBBS, M.D ",
+        "phone" : "(669) 2568 1524"
+       
+    },
+    {
+        "id" : "3",
+        "img" : "https://i.ibb.co/yn1bcxp/doctor.png",
+        "name" : "Farhan Morres ",
+        "spaicalist" : "Surgon",
+        "degree" :"MBBS, M.D ",
+        "phone" : "(669) 2268 0046"
+    }
+]

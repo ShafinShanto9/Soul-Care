@@ -1,0 +1,46 @@
+[
+    {
+        "id" : "1",
+        "name" : "Haematology",
+        "description" : "Appropriately customize excellent imperatives for mission-critical products.",
+        "image" : "https://i.ibb.co/3SJfBn5/s1.jpg",
+        "details" :"Rapidiously productivate multimedia based scenarios and economically sound ROI. Dynamically seize cross-platform outside the boxthinking after enterprise markets. Efficiently enhance end-to-end relationships...Productivate multimedia based scenarios and economically sound ROI. Dynamically seize cross-platform outside the box thinking after enterprise markets. Efficiently enhance end-to-end relationships after installed base best practices. Phosfluorescently customize proactive testing procedures via end-to-end networks. Competently scale holistic interfaces for performance based customer service"
+    },
+    {
+        "id" : "2",
+        "name" : "Family Physician",
+        "description" : "Appropriately customize excellent imperatives for mission-critical products",
+        "image" : "https://i.ibb.co/fvD4vzk/s2.jpg",
+        "details" :"Rapidiously productivate multimedia based scenarios and economically sound ROI. Dynamically seize cross-platform outside the boxthinking after enterprise markets. Efficiently enhance end-to-end relationships...Productivate multimedia based scenarios and economically sound ROI. Dynamically seize cross-platform outside the box thinking after enterprise markets. Efficiently enhance end-to-end relationships after installed base best practices. Phosfluorescently customize proactive testing procedures via end-to-end networks. Competently scale holistic interfaces for performance based customer service"
+    },
+    {
+        "id" : "3",
+        "name" : "Pediatrician",
+        "description" : "Appropriately customize excellent imperatives for mission-critical products",
+        "image" : "https://i.ibb.co/02mZHCp/s3.jpg",
+        "details" :"Rapidiously productivate multimedia based scenarios and economically sound ROI. Dynamically seize cross-platform outside the boxthinking after enterprise markets. Efficiently enhance end-to-end relationships...Productivate multimedia based scenarios and economically sound ROI. Dynamically seize cross-platform outside the box thinking after enterprise markets. Efficiently enhance end-to-end relationships after installed base best practices. Phosfluorescently customize proactive testing procedures via end-to-end networks. Competently scale holistic interfaces for performance based customer service"
+    },
+    {
+        "id" : "4",
+        "name" : "Gynecologist",
+        "description" : "Appropriately customize excellent imperatives for mission-critical products",
+        "image" : "https://i.ibb.co/k5n2DTd/s4.jpg",
+        "details" :"Rapidiously productivate multimedia based scenarios and economically sound ROI. Dynamically seize cross-platform outside the boxthinking after enterprise markets. Efficiently enhance end-to-end relationships...Productivate multimedia based scenarios and economically sound ROI. Dynamically seize cross-platform outside the box thinking after enterprise markets. Efficiently enhance end-to-end relationships after installed base best practices. Phosfluorescently customize proactive testing procedures via end-to-end networks. Competently scale holistic interfaces for performance based customer service"
+    },
+    {
+        "id" : "5",
+        "name" : "Expert Surgeon",
+        "description" : "Appropriately customize excellent imperatives for mission-critical products",
+        "image" : "https://i.ibb.co/YtBgW5q/s5.jpg",
+        "details" : "Rapidiously productivate multimedia based scenarios and economically sound ROI. Dynamically seize cross-platform outside the boxthinking after enterprise markets. Efficiently enhance end-to-end relationships...Productivate multimedia based scenarios and economically sound ROI. Dynamically seize cross-platform outside the box thinking after enterprise markets. Efficiently enhance end-to-end relationships after installed base best practices. Phosfluorescently customize proactive testing procedures via end-to-end networks. Competently scale holistic interfaces for performance based customer service"
+
+    },
+    {
+        "id" : "6",
+        "name" : "Nephrologist",
+        "description" : "Appropriately customize excellent imperatives for mission-critical products",
+        "image" : "https://i.ibb.co/sRVpWYs/s6.jpg",
+        "details" :"Rapidiously productivate multimedia based scenarios and economically sound ROI. Dynamically seize cross-platform outside the boxthinking after enterprise markets. Efficiently enhance end-to-end relationships...Productivate multimedia based scenarios and economically sound ROI. Dynamically seize cross-platform outside the box thinking after enterprise markets. Efficiently enhance end-to-end relationships after installed base best practices. Phosfluorescently customize proactive testing procedures via end-to-end networks. Competently scale holistic interfaces for performance based customer service"
+
+    }
+]

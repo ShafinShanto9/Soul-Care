@@ -1,0 +1,12 @@
+.nav-text{
+ text-decoration: none;
+ margin-right: 25px;
+ color: black;
+ border-bottom: 1px solid rgb(70, 6, 6);
+}
+.nav-text:hover {
+    border-bottom: 4px solid rgb(70, 6, 6);
+    color: black;
+    
+    border-radius: 9px 15px 25px 10px;
+}
